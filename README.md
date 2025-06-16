@@ -24,9 +24,6 @@
     - [ ] Practice: Set up a Linux VM and use only command line for daily tasks
 -  Scripting Foundation
     - [ ] [ Bash Scripting](https://tryhackme.com/room/bashscripting)
-
     - [ ] [ Python Basics](https://tryhackme.com/room/pythonbasics)
-    
     - [ ] [Automate Boring Stuff with Python](https://automatetheboringstuff.com/)
-
     - [ ] Practice: Write scripts to automate common tasks
