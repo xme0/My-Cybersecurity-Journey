@@ -3,6 +3,8 @@
 - Networking Fundamentals :
     - [ ] [Introductory Networking](https://tryhackme.com/room/introtonetworking)
     - [ ] [What is Networking?](https://tryhackme.com/room/whatisnetworking)
+    - [ ] [Network Services](https://tryhackme.com/room/networkservices)
+    - [ ] [Network Services 2](https://tryhackme.com/room/networkservices2)
 
 
 
@@ -19,7 +21,7 @@
     - [ ] [Linux Fundamentals 1](https://tryhackme.com/room/linuxfundamentalspart1)
     - [ ] [Linux Fundamentals 2](https://tryhackme.com/room/linuxfundamentalspart2) *paid*
     - [ ] [Linux Fundamentals 3](https://tryhackme.com/room/linuxfundamentalspart3) *paid*
-    - [ ] [OverTheWire Bandit](overthewire.org/wargames/bandit/)
+    - [ ] [OverTheWire Bandit](https://overthewire.org/wargames/bandit/)
     - [ ] [The Cyber Mentor's "Linux for Ethical Hackers"](https://youtu.be/U1w4T03B30I?si=Yrf_4PAxKr4h2aCU)
     - [ ] Practice: Set up a Linux VM and use only command line for daily tasks
 -  Scripting Foundation
