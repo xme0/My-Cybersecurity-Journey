@@ -2,6 +2,7 @@
 # first bash script
 ## top of script
 ![alt](images/top-of-script.png)
+
 this to your shell knows this file needs to run using bash
 you can also perform normal linux commands inside ur bash script
 ![alt](images/commend-inside.png)
