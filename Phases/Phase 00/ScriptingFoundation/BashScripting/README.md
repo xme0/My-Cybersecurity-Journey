@@ -31,9 +31,9 @@ chmod +x file.sh
 #!/bin/bash
 name="value"
 ```
-    no spaces before or after the =
+no spaces before or after the =
 ## To use the variable:
 ```bash
 echo $name
 ```
-    just add $ before the variable name 
+just add $ before the variable name 
