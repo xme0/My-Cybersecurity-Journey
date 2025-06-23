@@ -13,5 +13,6 @@ run it using => ./
 
 # variables
 ![alt](images/variable-name.png)
+
 name="value" !!! no space to work
 to use our variable name we have to add $ onto front of the variable 
