@@ -27,5 +27,5 @@
 -  Scripting Foundation
     - [ ] [ Bash Scripting](https://tryhackme.com/room/bashscripting)
     - [ ] [ Python Basics](https://tryhackme.com/room/pythonbasics)
-    - [ ] [Automate Boring Stuff with Python](https://automatetheboringstuff.com/)
+    - [ ] [Automate Boring Stuff with Python](https://www.youtube.com/playlist?list=PLiEts138s9P0aG6soKBoMsmJrwIOPXoXR)
     - [ ] Practice: Write scripts to automate common tasks
