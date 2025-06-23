@@ -16,3 +16,13 @@ run it using => ./
 
 name="value" !!! no space to work
 to use our variable name we have to add $ onto front of the variable 
+
+
+
+# Our first simple bash scripts
+
+## Top Of Bash File
+    ``` bash 
+    #!/bin/bash
+
+    ```
