@@ -37,3 +37,11 @@ no spaces before or after the =
 echo $name
 ```
 just add $ before the variable name 
+
+## Debugging
+To run in debugging mode:
+```
+bash -x ./file.sh
+```
+
+If you want to debug at a certain point you can insert **set -x** into your script and **set +x** to end the section
