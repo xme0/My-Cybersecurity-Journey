@@ -6,8 +6,8 @@ At the top of bash file add this line:
 ``` bash 
 #!/bin/bash
 ```
-this tell the system to execute the script using bash shell
-## Run normal commends inside script
+this tells the system to execute the script using bash shell
+## Run normal commands inside script
 you can also perform normal linux commands inside script, just like this :
 ```bash
 #!/bin/bash
@@ -45,3 +45,5 @@ bash -x ./file.sh
 ```
 
 If you want to debug at a certain point you can insert **set -x** into your script and **set +x** to end the section
+
+# Parameters
