@@ -1,4 +1,4 @@
-# OSCP Free Roadmap
+# My-Cybersecurity-Journey
 ## Phase 0 : Building Your Foundation
 - Networking Fundamentals :
     - [ ] [Introductory Networking](https://tryhackme.com/room/introtonetworking)
