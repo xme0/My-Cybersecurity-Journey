@@ -22,7 +22,7 @@ Passive Reconnaissance is the process of gathering information without interacti
 - [OSINT Framework](https://osintframework.com/)
 - [Wayback Machine](https://web.archive.org/) : Wayback Machine, a digital archive created by the Internet Archive, allows users to view past versions of websites. It acts as a "time machine" for the internet, enabling users to access websites that may no longer be available or to see how websites have changed over time.
 - [Netcraft](https://searchdns.netcraft.com/) web application to find the company’s restricted domain
-- 
+- [Wireshark](https://hackertarget.com/wireshark-tutorial-and-cheat-sheet/): If an attacker can gain access to an organization’s Wi-Fi network or otherwise eavesdrop on the network traffic of an employee (e.g., by eavesdropping on traffic in a coffee shop), analyzing it in Wireshark can provide a great deal of useful intelligence about the target network.
 
 # What You Can Learn with Cookie Editors
 
