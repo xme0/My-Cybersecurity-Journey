@@ -25,7 +25,7 @@ chmod +x file.sh
 ```
 
 
-# variables
+# Variables
 ## To declare a variable:
 ```bash
 #!/bin/bash
@@ -80,3 +80,5 @@ Sure! Here's your revised and grammatically correct text in Markdown format:
    read name
    echo "Your name is $name"
    ```
+# Loops
+## For Loops
