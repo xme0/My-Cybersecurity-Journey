@@ -1,4 +1,4 @@
-# Passive Reconnaissance Cheat Sheet
+# Passive Reconnaissance
 
 ## What is Passive Reconnaissance?
 **Passive Reconnaissance** is the process of collecting information about a target without directly interacting with its systems. It relies on publicly accessible sources and tools, making it stealthy and difficult to detect.
