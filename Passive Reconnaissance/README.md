@@ -16,9 +16,6 @@
    - Operating systems, software, programming languages  
    - Technologies used on websites (e.g., CMS, web servers)
 
-3. **Physical Reconnaissance:**
-   - Searching through discarded hardware, trash, or documents for sensitive data (a.k.a. **Dumpster Diving**)
-
 ---
 
 ## Common Tools for Passive Recon
@@ -28,7 +25,6 @@
 | [**Google Dorking**](https://github.com/chr3st5an/Google-Dorking) | Crafting custom Google queries to uncover hidden files, directories, passwords, etc. |
 | [**Censys**](https://search.censys.io/) | Search engine for internet-connected devices. |
 | [**Shodan.io**](https://www.shodan.io/) | Search engine for finding public devices based on filters like port, OS, etc. |
-| **Social Engineering via SNS** | Extract personal data like DOB, interests, connections, and more. |
 | **Email Headers** | Reveal sender IP, server information, and routing details. |
 | [**Cookie Editor Extensions**](#what-you-can-learn-with-cookie-editors) | Analyze session cookies and authentication details (read-only use = passive). |
 | [**Whois**](https://labex.io/tutorials/linux-linux-whois-command-with-practical-examples-423010) | Retrieves domain owner details, registrar info, contact, and registration dates. |
